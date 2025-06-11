@@ -9,7 +9,7 @@ Built using data scraped from Glassdoor with Python and Selenium.
 ---
 ## 🚀 Project Overview
 
-Upon completing Andrew Ng’s **Machine Learning** course on Coursera and enhancing my skills through hands-on practice on **Kaggle**,by actively engaging in various ML courses and exercises. I initiated this project to deepen my understanding and practical application of machine learning concepts. It proved to be an enriching and intellectually rewarding experience, and it was a genuine pleasure to work on.
+Upon completing **Andrew Ng** **Machine Learning** course on Coursera and enhancing my skills through hands-on practice on **Kaggle**,by actively engaging in various ML courses and exercises. I initiated this project to deepen my understanding and practical application of machine learning concepts. It proved to be an enriching and intellectually rewarding experience, and it was a genuine pleasure to work on.
 
 * Scraped 1000+ job listings from Glassdoor.
 * Extracted and engineered features from job descriptions to evaluate demand for skills (Python, Excel, AWS, Spark).
