@@ -1,7 +1,7 @@
 
 
 
-# 🧮 SalarySense: Data Science
+# 🧮 SalaryPrediction: Data Science
 
 A tool to estimate data science salaries (MAE \~ \$11K) to help job seekers negotiate better offers.
 Built using data scraped from Glassdoor with Python and Selenium.
